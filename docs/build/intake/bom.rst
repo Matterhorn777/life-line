@@ -106,6 +106,20 @@ Size 930 mm X 590 mm
 The quantity required: 2
 The unit cost: Varies by nation
 
+Simple tables:
+
+================  ============================================================
+List Type         Examples (syntax in the `text source <cheatsheet.txt>`_)
+================  ============================================================
+Bullet list       * items begin with "-", "+", or "*"
+Enumerated list   1. items use any variation of "1.", "A)", and "(i)"
+                  #. also auto-enumerated
+Definition list   Term is flush-left : optional classifier
+                      Definition is indented, no blank line between
+Field list        :field name: field body
+Option list       -o  at least 2 spaces between option & description
+================  ============================================================
+
 * :ref:`Bill of Materials`
 
 
