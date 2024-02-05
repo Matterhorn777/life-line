@@ -20,20 +20,20 @@ Welcome! This is the official documentation for the Eco-Libre Life-Line.
    praxis/index
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Build Instructions:
 
    build/index
    build/intake
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contributing:
 
    dev/index
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: More:
 
    support
