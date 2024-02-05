@@ -111,13 +111,17 @@ Simple tables:
 ================  ============================================================
 Specification         Build of Materials
 ================  ============================================================
-Model        GPI1109091  GPI 2 in. NPT Bung Adapter Kit  PVC   Temperature Range Color Size 55 mm or 2.16 in The quantity required: 2 The unit cost: Varies by nation
-Product   1. items use any variation of "1.", "A)", and "(i)"
+Model             GPI1109091
+Product           GPI 2 in. NPT Bung Adapter Kit
                   #. also auto-enumerated
-Material   Term is flush-left : optional classifier
-                      Definition is indented, no blank line between
-Weight        :field name: field body
-Capacity       -o  at least 2 spaces between option & description
+Material          PVC
+Weight            n/a
+Capacity          n/a
+Temperature Range n/a
+Color             n/a
+Size              55 mm or 2.16 in
+Quantity req'd:   2
+The unit cost:    varies by nation
 ================  ============================================================
 
 * :ref:`Bill of Materials`
