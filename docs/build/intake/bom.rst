@@ -109,15 +109,15 @@ The unit cost: Varies by nation
 Simple tables:
 
 ================  ============================================================
-List Type         Examples (syntax in the `text source <cheatsheet.txt>`_)
+Specification         Build of Materials
 ================  ============================================================
-Bullet list       Model GPI1109091 Product GPI 2 in. NPT Bung Adapter Kit Material PVC Weight Capacity Temperature Range Color Size 55 mm or 2.16 in The quantity required: 2 The unit cost: Varies by nation
-Enumerated list   1. items use any variation of "1.", "A)", and "(i)"
+Model        GPI1109091  GPI 2 in. NPT Bung Adapter Kit  PVC   Temperature Range Color Size 55 mm or 2.16 in The quantity required: 2 The unit cost: Varies by nation
+Product   1. items use any variation of "1.", "A)", and "(i)"
                   #. also auto-enumerated
-Definition list   Term is flush-left : optional classifier
+Material   Term is flush-left : optional classifier
                       Definition is indented, no blank line between
-Field list        :field name: field body
-Option list       -o  at least 2 spaces between option & description
+Weight        :field name: field body
+Capacity       -o  at least 2 spaces between option & description
 ================  ============================================================
 
 * :ref:`Bill of Materials`
