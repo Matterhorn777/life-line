@@ -113,7 +113,6 @@ Specification         Build of Materials
 ================  ============================================================
 Model             GPI1109091
 Product           GPI 2 in. NPT Bung Adapter Kit
-                  #. also auto-enumerated
 Material          PVC
 Weight            n/a
 Capacity          n/a
@@ -137,18 +136,18 @@ Option list       -o  at least 2 spaces between option & description
 ================  ============================================================
 
 ================  ============================================================
-Role Name         Description
+Specification         Build of Materials
 ================  ============================================================
-emphasis          Equivalent to *emphasis*
-literal           Equivalent to ``literal`` but processes backslash escapes
-math              Mathematical notation (input in LaTeX format)
-PEP               Reference to a numbered Python Enhancement Proposal
-RFC               Reference to a numbered Internet Request For Comments
-raw               For non-reST data; cannot be used directly (see docs) [0.3.6]
-strong            Equivalent to **strong**
-sub               Subscript
-sup               Superscript
-title             Title reference (book, etc.); standard default role
+Model             GPI1109091
+Product           GPI 2 in. NPT Bung Adapter Kit
+Material          PVC
+Weight            n/a
+Capacity          n/a
+Temp Range        n/a
+Color             n/a
+Size              55 mm or 2.16 in
+Quantity req'd:   2
+The unit cost:    varies by nation
 ================  ============================================================
 
 * :ref:`Bill of Materials`
