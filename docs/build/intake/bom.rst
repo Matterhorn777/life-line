@@ -136,6 +136,21 @@ Field list        :field name: field body
 Option list       -o  at least 2 spaces between option & description
 ================  ============================================================
 
+================  ============================================================
+Role Name         Description
+================  ============================================================
+emphasis          Equivalent to *emphasis*
+literal           Equivalent to ``literal`` but processes backslash escapes
+math              Mathematical notation (input in LaTeX format)
+PEP               Reference to a numbered Python Enhancement Proposal
+RFC               Reference to a numbered Internet Request For Comments
+raw               For non-reST data; cannot be used directly (see docs) [0.3.6]
+strong            Equivalent to **strong**
+sub               Subscript
+sup               Superscript
+title             Title reference (book, etc.); standard default role
+================  ============================================================
+
 * :ref:`Bill of Materials`
 
 
