@@ -12,6 +12,7 @@ Welcome! This is the official documentation for the Eco-Libre Life-Line.
   CAD Design of the Eco-Libre Life-Line
 
 .. toctree::
+   :maxdepth: 2
    :caption: What is the Life-Line?:
 
    introduction/index
