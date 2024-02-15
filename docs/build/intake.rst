@@ -1,4 +1,4 @@
-.. _intkae:
+.. _intake:
 
 Intake
 ======

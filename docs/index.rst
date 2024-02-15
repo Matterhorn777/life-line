@@ -17,6 +17,16 @@ Welcome! This is the official documentation for the Eco-Libre Life-Line.
    introduction/index
    faq
    theory/index
+   Low-Maintenance/index###
+   Hygienic/index###
+   Size/index###
+   Intake/index###
+   Settling Tank/index###
+   Large Sediment Filter/index###
+   Pre-Filter/index###
+   Slow Sand Filter/index###
+   Clean Water Tank/index###
+   Lifeline/index###
    praxis/index
 
 .. toctree::

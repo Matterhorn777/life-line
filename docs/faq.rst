@@ -8,7 +8,7 @@ Frequently Asked Questions
 Q: How can I get updates about Eco-Libre?
 -----------------------------------------
 
-You can `signup for our BusKill email newsletter <https://www.eco-libre.org/newsletter>`_ or follow us on any of the following social media profiles:
+You can `signup for our Eco-Libre email newsletter <https://www.eco-libre.org/newsletter>`_ or follow us on any of the following social media profiles:
 
 * Twitter `@EcoLibreNews <https://twitter.com/EcoLibreNews>`_
 * Facebook `@EcoLibreNews <https://www.facebook.com/EcoLibreNews/>`_
