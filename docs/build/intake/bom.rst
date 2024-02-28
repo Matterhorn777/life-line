@@ -4,7 +4,7 @@ Bill of Materials
 ============
 
 
-**Specifications**
+**Specifications Intake Barrel**
 ------------------
 1. *Model*  SD - SHT
    *Product Plastic Barrel
@@ -18,7 +18,7 @@ Bill of Materials
    *The unit cost:* Varies by nation
 
 
-**Specifications**
+**Specifications Concrete Weir**
 ------------------
 2. *Model n/a
    *Product Quikrete 
@@ -32,7 +32,7 @@ Bill of Materials
    *The unit cost:* Varies by nation
 
 
-**Specifications**
+**Specifications Weir Rebar**
 ------------------
 3. *Model* 
    *Product* Rebar
