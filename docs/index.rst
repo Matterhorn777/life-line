@@ -18,31 +18,31 @@ Welcome! This is the official documentation for the Eco-Libre Life-Line.
    introduction/index
    faq
    theory/index
-   Low-Maintenance/index###
-   Hygienic/index###
-   Size/index###
-   Intake/index###
-   Settling Tank/index###
-   Large Sediment Filter/index###
-   Pre-Filter/index###
-   Slow Sand Filter/index###
-   Clean Water Tank/index###
-   Lifeline/index###
+   low_maintenance
+   hygienic
+   size
+   intake/index
+   settling_tank/index
+   large-sediment_filter/index
+   Pre-Filter/index
+   slow_sand_filter/index
+   clean_water_tank/index
+   lifeline/index
    praxis/index
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Build Instructions:
-
+   
    build/index
-   build/foundation
-   build/frame
-   build/lockers
-   build/walls
-   build/doors
-   build/bikes
-   build/roof
-   build/electrical
+   build/intake/index
+   build/settling_tank/index
+   build/large-sediment_filter/index
+   build/pre_filter/index
+   build/slow_sand_filter/index
+   build/clean_water_tank/index
+   build/lifeline/index
+   
 
 .. toctree::
    :maxdepth: 2

@@ -1,10 +1,9 @@
-.. |nbsp| unicode:: 0xA0
-   :trim:
+.._intake:
 
-Welcome to Eco-Libre's Life-Line documentation!
+Intake
 ===================================================
 
-Welcome! This is the official documentation for the Eco-Libre Life-Line.
+This is a section that will talk about how to build the intake component of the life-line system.
 
 .. figure:: /images/life-line_2023.12.jpg
   :align: center
@@ -13,31 +12,6 @@ Welcome! This is the official documentation for the Eco-Libre Life-Line.
 
 .. toctree::
    :maxdepth: 3
-   :caption: What is the Life-Line?:
+   :caption: This is the intake build table of contents:
 
-   introduction/index
-   faq
-   theory/index
-   praxis/index
-
-.. toctree::
-   :maxdepth: 3
-   :caption: Build Instructions:
-
-   build/index
-   build/intake
-
-.. toctree::
-   :maxdepth: 3
-   :caption: Contributing:
-
-   dev/index
-
-.. toctree::
-   :maxdepth: 3
-   :caption: More:
-
-   support
-   changelog
-   license
-   attribution
+   bom

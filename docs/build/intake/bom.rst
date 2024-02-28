@@ -1,6 +1,6 @@
-.. _Bill of Materials:
+.. _intake_bom:
 
-Self Cleaning Water Weir
+Bill of Materials
 ============
 
 
